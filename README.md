@@ -8,7 +8,7 @@
 
 - Select the anime (move with arrows, WASD keys or mouse scroll) and click Space
 
-- Or use the A and D key change the watched episode
+- Or use the A and D key to change the watched episode
 
 <img src="./assets/screenshots/1.png" width="100%"/>
 
