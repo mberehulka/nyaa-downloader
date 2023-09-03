@@ -6,7 +6,7 @@
 
 - Add some anime to your watching list
 
-- Select the anime (move with arrows, WASD keys or mouse scroll) and click Space:
+- Select the anime (move with arrows, WASD keys or mouse scroll) and click Space
 
 - Or use the A and D key change the watched episode
 
