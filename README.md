@@ -8,7 +8,7 @@ Find any anime in your  watching list and open the torrent file found in , and m
 - Add some anime to your watching list
 - Select the anime (move with arrows, WASD keys or mouse scroll) and click Space or Enter:
 <img src="./assets/screenshots/1.png" width="100%"/>
-- The programm will search [Nyaa.si](https://nyaa.si) for a torrent in 1080p of the next episode
+- The programm will search [Nyaa](https://nyaa.si) for a torrent in 1080p of the next episode
 - Select one of the results and click hit Space or Enter
 <img src="./assets/screenshots/2.png" width="100%"/>
 - The .torrent file will open in your default torrent APP
