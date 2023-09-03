@@ -14,7 +14,7 @@
 
 - The programm will search in [Nyaa](https://nyaa.si/) RSS server for a torrent in 1080p of the next episode
 
-- Select one of the results and click hit Space
+- Select one of the results and hit Space
 
 <img src="./assets/screenshots/2.png" width="100%"/>
 
