@@ -1,7 +1,5 @@
 # Nyaa downloader
 
-Find any anime in your  watching list and open the torrent file found in , and mark the episode as watched
-
 # Usage
 
 - Login into your [AniList](https://anilist.co/) account in the window that shows up after starting the APP
@@ -23,3 +21,9 @@ Find any anime in your  watching list and open the torrent file found in , and m
 <img src="./assets/screenshots/3.png" width="100%"/>
 
 - After that the episode will be marked as watched in your watching list
+
+# Running
+
+```
+cargo run --release
+```
