@@ -6,13 +6,13 @@
 
 - Add some anime to your watching list
 
-- Select the anime (move with arrows, WASD keys or mouse scroll) and click Space or Enter:
+- Select the anime (move with arrows, WASD keys or mouse scroll) and click Space:
 
 <img src="./assets/screenshots/1.png" width="100%"/>
 
 - The programm will search in [Nyaa](https://nyaa.si/) RSS server for a torrent in 1080p of the next episode
 
-- Select one of the results and click hit Space or Enter
+- Select one of the results and click hit Space
 
 <img src="./assets/screenshots/2.png" width="100%"/>
 
