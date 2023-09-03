@@ -4,7 +4,7 @@
 
 - Login into your [AniList](https://anilist.co/) account in the window that shows up after starting the APP
 
-- Add some anime to your watching list
+- Add some anime to your watching list first !
 
 - Select the anime (move with arrows, WASD keys or mouse scroll) and click Space
 
