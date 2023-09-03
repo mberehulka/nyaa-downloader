@@ -1,3 +1,3 @@
-ID 14244
-Secret 0wff5vDRO60TB19fStqWGydVtfd01Nahf2TzyXQU
-Name Nyaa Downloader
+# Nyaa downloader
+
+Find any anime in your [AniList](anilist.co) watching list and open the torrent file found in [Nyaa.si](nyaa.si) in a few clicks
