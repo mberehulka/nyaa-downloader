@@ -6,7 +6,7 @@ Find any anime in your  watching list and open the torrent file found in , and m
 
 - Login into your [AniList](https://anilist.co) account in the window that shows up after starting the APP
 - Add some anime to your watching list
-- Select some anime in you watching list (move with arrows, WASD keys or mouse scroll) and click Space or Enter:
+- Select the anime (move with arrows, WASD keys or mouse scroll) and click Space or Enter:
 <img src="./assets/screenshots/1.png" width="100%"/>
 - The programm will search [Nyaa.si](https://nyaa.si) for a torrent in 1080p of the next episode
 - Select one of the results and click hit Space or Enter
