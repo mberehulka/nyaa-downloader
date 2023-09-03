@@ -1,0 +1,3 @@
+ID 14244
+Secret 0wff5vDRO60TB19fStqWGydVtfd01Nahf2TzyXQU
+Name Nyaa Downloader
